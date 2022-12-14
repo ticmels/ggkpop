@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color:#FF8E9E;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+
+}
+.div-logo {
+    display:flex;
+    justify-content:center;
+
+}
+.img-logo{
+    width:500px;
+}
+
+.int2{
+    padding-top:25px
+}
+
+.int1{
+    padding-top:25px
+} 
+
+.int3{
+    padding-top:25px
+}
+.header-content {
+    max-width: 400px;
+    margin: 150px auto;
+    text-align: center;
+
+}
+
+.header-content h1 {
+    margin-bottom: 10px;
+    font-size: 4rem;
+
+}
+
+.group1 {
+    background: #F9B5D0;
+    padding: 15px;
+    margin-bottom:25px;
+
+}
+
+.group1 .integrantes {
+    display: flex;
+    margin: auto;
+    max-width: 1800px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.group1 .group-title {
+    width: 100%;
+    text-align: center;
+    margin: 25px 0;
+
+}
+
+.desc {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+
+.group1 .card{
+    width: 250px;
+    height: 350px;
+    background: white;
+    border-radius: 24px 0;
+    margin: 25px;
+    position: relative;
+}
+
+.int-nome {
+    justify-content:center;
+    align-item:center;
+    display:flex;
+    
+}
+.group1 .card-image {
+    width: 250px;
+    height: 350px;
+    border-radius: 24px 0 24px 0 ;
+    object-fit: cover;
+
+}
+
+.music-title{
+    display:flex;
+    justify-content:center;
+    padding:50px 0 0 0 ;
+    
+}
+
+.musics {
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+
+    margin-bottom:20px;
+}
+
+/* g2 */
+.group2 {
+    background: #82C3EC;
+    padding: 15px;
+    margin-bottom:25px;
+
+}
+
+.group2 .integrantes {
+    display: flex;
+    margin: auto;
+    max-width: 1800px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.group2 .group-title {
+    width: 100%;
+    text-align: center;
+    margin: 25px 0;
+
+}
+
+
+
+.group2 .card{
+    width: 250px;
+    height: 350px;
+    background: white;
+    border-radius: 24px 0;
+    margin: 25px;
+    position: relative;
+
+}
+
+.int-nome {
+    justify-content:center;
+    align-item:center;
+    display:flex;
+    margin-bottom:50px;
+    
+}
+.group2 .card-image {
+    width: 250px;
+    height: 350px;
+    border-radius: 24px 0 24px 0 ;
+    object-fit: cover;
+    
+}
+
+.group2 {
+    background: #82C3EC;
+    padding: 15px;
+    margin-bottom:25px;
+
+}
+
+/* g3 */
+.group3 .integrantes {
+    display: flex;
+    margin: auto;
+    max-width: 1800px;
+    flex-wrap: wrap;
+    justify-content: center;}
+
+.group3 .group-title {
+    width: 100%;
+    text-align: center;
+    margin: 25px 0;
+
+}
+
+
+
+.group3 .card{
+    width: 250px;
+    height: 350px;
+    background: white;
+    border-radius: 24px 0;
+    margin: 25px;
+    position: relative;
+}
+
+.int-nome {
+    justify-content:center;
+    align-item:center;
+    display:flex;
+    
+    
+}
+.group3 .card-image {
+    width: 250px;
+    height: 350px;
+    border-radius: 24px 0 24px 0 ;
+    object-fit: cover;
+
+}
+
+.group3 {
+    background: #F56EB3;
+    padding: 15px;
+
+}
